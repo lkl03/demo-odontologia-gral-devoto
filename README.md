@@ -1,2 +1,7 @@
-# demo-odontologia-gral-devoto
-Demo web para ODONTOLOGIA GRAL DEVOTO — diseñada por eterlab.
+# ODONTOLOGIA GRAL DEVOTO
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
